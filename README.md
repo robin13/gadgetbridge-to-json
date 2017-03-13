@@ -7,4 +7,6 @@ ingest into elasticsearch using logstash.
 
 ## Usage
 
+```
 ./gadgetbridge-to-json.pl --db <path-to-db> --output <path-to-json-file>
+```
